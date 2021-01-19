@@ -10,6 +10,12 @@ body{
   font-family: 'Poppins, sans-serif';
 }
 
+.container{
+  width: min(90vw, 800px);
+  margin: auto;
+  
+}
+
 /* HEADER ############## */
 header{
   background: #2d4a22;
@@ -20,4 +26,13 @@ header{
 #logo{
   color: #fff;
   font-weight: 100;
+}
+
+/* BALANCE ############## */
+
+
+
+/* FOOTER ############## */
+footer{
+  text-align: center;
 }
