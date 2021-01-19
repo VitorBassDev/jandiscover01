@@ -44,8 +44,10 @@ h2{
 
 #balance h2{
   color: #fff;
-
+  margin-top: 0;
 }
+
+/* CARDS ############## */
 
 /* FOOTER ############## */
 footer{
