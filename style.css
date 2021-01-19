@@ -13,7 +13,7 @@ body{
 .container{
   width: min(90vw, 800px);
   margin: auto;
-  
+
 }
 
 /* HEADER ############## */
@@ -23,14 +23,29 @@ header{
   text-align: center;
 }
 
+/* TITLES ############## */
+h2{
+  margin-top: 3.2rem;
+  margin-bottom: 0.8rem;
+  color: #363f5f;
+  font-weight: normal;
+}
+
 #logo{
   color: #fff;
   font-weight: 100;
 }
 
 /* BALANCE ############## */
+#balance {
+  margin-top: -8rem;
 
+}
 
+#balance h2{
+  color: #fff;
+
+}
 
 /* FOOTER ############## */
 footer{
